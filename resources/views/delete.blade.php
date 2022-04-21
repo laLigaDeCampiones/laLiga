@@ -1,11 +1,11 @@
 @extends('layouts.layout')
 
-@section('title', 'Calendar')
+@section('title', 'delete')
 
 @section('content')
 
         <section>
-            <p>Por aquí ira un calendario</p>
+            <p>Por aquí se eliminará un equipo</p>
         </section>
 @endsection
 

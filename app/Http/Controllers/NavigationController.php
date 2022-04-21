@@ -21,4 +21,12 @@ class NavigationController extends Controller
     public function result(){
         return view('result');
     }
+    
+    public function show(){
+        return view('show');
+    }
+
+    public function delete(){
+        return view('delete');
+    }
 }
