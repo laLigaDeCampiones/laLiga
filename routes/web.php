@@ -23,3 +23,4 @@ Route::get('/calendar', [NavigationController::class, 'calendar']);
 Route::get('/result', [NavigationController::class, 'result']);
 Route::get('/show', [NavigationController::class, 'show']);
 Route::get('/delete', [NavigationController::class, 'delete']);
+
